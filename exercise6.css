@@ -3,6 +3,13 @@
 #e6 .container {
     height: 500px;
     width: 1000px;
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
 }
 
 #e6 .item {
